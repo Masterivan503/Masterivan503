@@ -1,6 +1,8 @@
 # HOLA 👋
 <h1>BIENVENIDOS A MI PERFIL DE GITHUB ✨ </h1>
 
+** Mi nombre es: Master Ivan
+** Tengo: 22 años
 <!--
 **Masterivan503/Masterivan503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
