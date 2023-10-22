@@ -1,4 +1,3 @@
-# HOLA 👋
 <h1>BIENVENIDOS A MI PERFIL DE GITHUB ✨ </h1>
 
 <h1 align="center">Hola 👋, soy el Maestro Iván</h1><h3 align="center">Tengo: 22 años</h3>
